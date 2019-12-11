@@ -7,7 +7,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name="xxibm_product_catalogue")
+@Table(name="XXIBM_PRODUCT_CATALOGUE")
 public class ProductCatalog {
 	
 	private String segment;
